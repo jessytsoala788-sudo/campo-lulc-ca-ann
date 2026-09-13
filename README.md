@@ -20,7 +20,7 @@ Deux volets méthodologiques sont couverts :
 └── README.md
 ```
 
-> **Note sur les données volumineuses** : les rasters LULC classifiés et les variables explicatives (~plusieurs dizaines de Mo chacun) ne sont pas hébergés directement sur GitHub. Ils sont disponibles sur demande auprès de l'auteure, ou via [lien Google Drive / autre hébergement à compléter].
+> **Note sur les données volumineuses** : les rasters LULC classifiés et les variables explicatives (~plusieurs dizaines de Mo chacun) ne sont pas hébergés directement sur GitHub. Ils sont disponibles sur demande auprès de l'auteure, ou via [https://drive.google.com/drive/folders/1jsOv_me9SG2ZKRyqX9koboM0IGldXNAy?usp=drive_link ] .
 
 ## Données utilisées
 
@@ -72,9 +72,9 @@ Le détail complet des résultats, la discussion de leurs limites (précision de
 
 Si vous utilisez ce code, merci de citer :
 
-> Tsoala Tchoffo, J.H. et al. (2026). *Modélisation prédictive des changements d'occupation et d'utilisation des terres dans la commune de Campo (Sud-Cameroun) à l'aide de Google Earth Engine et du modèle automates cellulaires–réseaux de neurones artificiels (CA-ANN)*. [Détails de publication à compléter].
+> Tsoala Tchoffo, J.H. et al. (2026). *Modélisation prédictive des changements d'occupation et d'utilisation des terres dans la commune de Campo (Sud-Cameroun) à l'aide de Google Earth Engine et du modèle automates cellulaires–réseaux de neurones artificiels (CA-ANN)*.
 >
-> Code disponible via ce dépôt, archivé sur Zenodo : [DOI à insérer après création de la release].
+> Code disponible via ce dépôt, archivé sur Zenodo : [].
 
 ## Auteurs
 
