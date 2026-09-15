@@ -74,7 +74,7 @@ Si vous utilisez ce code, merci de citer :
 
 > Tsoala Tchoffo, J.H. et al. (2026). *Modélisation prédictive des changements d'occupation et d'utilisation des terres dans la commune de Campo (Sud-Cameroun) à l'aide de Google Earth Engine et du modèle automates cellulaires–réseaux de neurones artificiels (CA-ANN)*.
 >
-> Code disponible via ce dépôt, archivé sur Zenodo : [].
+> Code disponible via ce dépôt, archivé sur Zenodo : [ DOI: 10.5281/zenodo.22765891].
 
 ## Auteurs
 
