@@ -1,0 +1,46 @@
+{
+  "title": "campo-lulc-ca-ann : classification LULC (Google Earth Engine) et modélisation CA-ANN de la commune de Campo (Sud-Cameroun)",
+  "description": "Scripts Google Earth Engine de classification Random Forest (2000, 2015, 2025) et de contrôle indépendant par les produits JRC-TMF et Global Forest Change, et pipeline Python CA-ANN de validation (2015-2025) et de projection (2035, 2045) de l'occupation des terres dans la commune de Campo, Sud-Cameroun. Version 2.0.0 révisée après évaluation : correction du calcul des quotas de Markov, choix de l'architecture sans la carte de validation, modèle nul, courbes ROC.",
+  "upload_type": "software",
+  "license": "MIT",
+  "language": "fra",
+  "keywords": [
+    "occupation des terres",
+    "LULC",
+    "CA-ANN",
+    "Google Earth Engine",
+    "Random Forest",
+    "JRC-TMF",
+    "Campo",
+    "Cameroun"
+  ],
+  "creators": [
+    {
+      "name": "Tsoala Tchoffo, Jessy Houston"
+    },
+    {
+      "name": "Opelele, Michel Gustave"
+    },
+    {
+      "name": "Avoto Essi, Yann Edwin"
+    },
+    {
+      "name": "Ondon Nkoua, Cedrick Belmich"
+    },
+    {
+      "name": "Tshimanga Muamba, Raphael"
+    },
+    {
+      "name": "Bolaluambe, Papy Claude"
+    },
+    {
+      "name": "Lele Nyami, Bonaventure"
+    },
+    {
+      "name": "Lutete Landu, Eric"
+    },
+    {
+      "name": "Semeki Ngabinzeke, Jean"
+    }
+  ]
+}
